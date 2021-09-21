@@ -382,19 +382,21 @@ header label span {
    }
    form .button input{
      height: 100%;
-     width: 100%;
+     width: 20%;
      border-radius: 5px;
+     display: inline;
      border: none;
+     justify-content: center;
      color: #fff;
      font-size: 18px;
      font-weight: 500;
      letter-spacing: 1px;
      cursor: pointer;
      transition: all 0.3s ease;
+     margin: 10px;
      background: linear-gradient(135deg, #71b7e6, #9b59b6);
    }
    form .button input:hover{
-    /* transform: scale(0.99); */
     background: linear-gradient(-135deg, #71b7e6, #9b59b6);
     }
    @media(max-width: 584px){
@@ -441,5 +443,11 @@ header label span {
       .option option {
           font-size: 15px;
       }
-      
+    .border
+    {
+    width: 100px;
+	height: 5px;
+    background: linear-gradient(-135deg, #71b7e6, #9b59b6);
+    margin-bottom:20px;
+}
    
