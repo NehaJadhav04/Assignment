@@ -195,6 +195,7 @@ main {
     background: #fff;
     padding: 2rem;
     border-radius: 2px;
+    box-shadow: 0 .3rem .5rem dimgrey; 
 }
 
 .card-single div:last-child span {
@@ -218,7 +219,7 @@ main {
 
 .card {
     background: #fff;
-}
+   }
 
 .card-header {
     padding: 1rem;
