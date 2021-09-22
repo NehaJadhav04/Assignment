@@ -407,3 +407,10 @@ img{
     color: black;
     border: 2px solid #4facfe;
 }
+.border
+{
+    width: 120px;
+    height: 5px;
+    background: #4facfe;
+    margin-top: 20px;
+}

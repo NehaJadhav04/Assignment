@@ -403,3 +403,10 @@ li
 		transform: translate(0,-8rem);
 	}
 }
+.border
+{
+    width: 120px;
+    height: 5px;
+    background: #4facfe;
+
+}
